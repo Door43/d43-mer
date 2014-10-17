@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mer:home|Door43 (mer)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mer|d43-mer repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mer/archive/master.zip|d43-mer.zip]]
+
+**Recent Changes**
+{{changes>ns = mer}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mer|Ethnologue data]]
+
